@@ -65,6 +65,19 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
 ![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/zigante/zigante">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigante&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/zigante/zigante">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zigante&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/zigante/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zigante&repo=scrapper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/0o48UoR.png 'github icon with padding'
@@ -72,7 +85,7 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/9I6NRUm.png 'github icon without padding'
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 'LinkedIn icon without padding'
+[2.2]: https://raw.githubusercontent.com/zigante/zigante/master/linkedin-3-16.png 'LinkedIn icon without padding'
 
 <!-- links to your social media accounts -->
 
