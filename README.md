@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<hr />
+
 <p align="center">
   <a href="https://dev.to/zigante">
     <img
