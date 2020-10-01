@@ -21,24 +21,24 @@
   <a href="https://www.instagram.com/zigpedro/"
     ><img
       height="30"
-      src="https://github.com/zigante/zigante/blob/main/assets/icons/instagram.png?raw=true"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/icons/instagram.png?raw=true"
       alt="instagram" /></a
   >&nbsp;&nbsp;
   <a href="https://medium.com/@zigante.pedro"
     ><img
       height="30"
-      src="https://github.com/zigante/zigante/blob/main/assets/icons/medium.png?raw=true"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/icons/medium.png?raw=true"
       alt="medium"
   /></a>
   <a href="https://www.linkedin.com/in/pedro-zigante-martim/"
     ><img
       height="30"
-      src="https://github.com/zigante/zigante/blob/main/assets/icons/linkedin.png?raw=true"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/icons/linkedin.png?raw=true"
       alt="linkedin"
   /></a>
 </p>
 
-# Hello, folks! <img src="https://github.com/zigante/zigante/blob/main/assets/gifs/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/zigante/zigante/main/assets/gifs/wave.gif" width="30px">
 
 My name is Pedro Zigante and I'm a software developer/computer science student. I'm from Brazil and currently working at Intellibrand. You can find me on
 
