@@ -1,4 +1,35 @@
-### Hi there 👋
+# [![zigante header](https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png)](https://github.com/zigante)
+
+<p align="center">
+  <a href="https://dev.to/zigante">
+    <img
+      height="30"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/icons/dev.png?raw=true"
+      alt="dev"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zigpedro/"
+    ><img
+      height="30"
+      src="https://github.com/zigante/zigante/blob/main/assets/icons/instagram.jpg?raw=true"
+      alt="instagram" /></a
+  >&nbsp;&nbsp;
+  <a href="https://medium.com/@zigante.pedro"
+    ><img
+      height="30"
+      src="https://github.com/zigante/zigante/blob/main/assets/icons/by-me-a-coffee.png?raw=true"
+      alt="medium"
+  /></a>
+  <a href="https://www.linkedin.com/in/pedro-zigante-martim/"
+    ><img
+      height="30"
+      src="https://github.com/zigante/zigante/blob/main/assets/icons/linkedin.png?raw=true"
+      alt="linkedin"
+  /></a>
+</p>
+
+My name is Pedro Zigante and I'm a software developer/computer science student. I'm from Brazil and currently working at Intellibrand. You can find me on
 
 <!--
 **zigante/Zigante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
