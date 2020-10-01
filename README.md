@@ -89,7 +89,7 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/9I6NRUm.png 'github icon without padding'
-[2.2]: https://raw.githubusercontent.com/zigante/zigante/master/linkedin-3-16.png 'LinkedIn icon without padding'
+[2.2]: https://raw.githubusercontent.com/zigante/zigante/main/assets/images/linkedin.png 'LinkedIn icon without padding'
 
 <!-- links to your social media accounts -->
 
