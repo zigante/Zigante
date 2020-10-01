@@ -1,4 +1,6 @@
-# [![zigante header](https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png)](https://github.com/zigante)
+<div align="center>
+  # [![zigante header](https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png)](https://github.com/zigante)
+</div>
 
 <p align="center">
   <a href="https://dev.to/zigante">
@@ -12,13 +14,13 @@
   <a href="https://www.instagram.com/zigpedro/"
     ><img
       height="30"
-      src="https://github.com/zigante/zigante/blob/main/assets/icons/instagram.jpg?raw=true"
+      src="https://github.com/zigante/zigante/blob/main/assets/icons/instagram.png?raw=true"
       alt="instagram" /></a
   >&nbsp;&nbsp;
   <a href="https://medium.com/@zigante.pedro"
     ><img
       height="30"
-      src="https://github.com/zigante/zigante/blob/main/assets/icons/by-me-a-coffee.png?raw=true"
+      src="https://github.com/zigante/zigante/blob/main/assets/icons/medium.png?raw=true"
       alt="medium"
   /></a>
   <a href="https://www.linkedin.com/in/pedro-zigante-martim/"
