@@ -78,6 +78,10 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zigante&repo=scrapper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/zigante/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zigante&repo=logger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/0o48UoR.png 'github icon with padding'
