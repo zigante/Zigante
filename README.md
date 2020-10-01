@@ -1,6 +1,4 @@
-<div align="center>
-  # [![zigante header](https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png)](https://github.com/zigante)
-</div>
+# [![zigante header](https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png)](https://github.com/zigante)
 
 <p align="center">
   <a href="https://dev.to/zigante">
