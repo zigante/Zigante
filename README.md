@@ -74,11 +74,11 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zigante&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/zigante/python-project-blueprint">
+<a href="https://github.com/zigante/scrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zigante&repo=scrapper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/zigante/go-project-blueprint">
+<a href="https://github.com/zigante/logger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zigante&repo=logger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
