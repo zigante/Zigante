@@ -71,7 +71,7 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigante&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/zigante/zigante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zigante&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zigante&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zigante's GitHub Stats" />
 </a>
 
 <a href="https://github.com/zigante/scrapper">
@@ -93,5 +93,5 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/MartinHeinz
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://github.com/zigante
+[2]: https://www.linkedin.com/in/pedro-zigante-martim/
