@@ -30,6 +30,7 @@
       src="https://raw.githubusercontent.com/zigante/zigante/main/assets/icons/medium.png?raw=true"
       alt="medium"
   /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pedro-zigante-martim/"
     ><img
       height="30"
