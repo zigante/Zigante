@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/zigante">
     <img
-      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/images/cover.png"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/gifs/cover.gif"
       alt="dev"
     />
   </a>
