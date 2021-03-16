@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/zigante">
     <img
-      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/gifs/cover.gif"
+      src="https://raw.githubusercontent.com/zigante/zigante/main/assets/gifs/zigante.gif"
       alt="dev"
     />
   </a>
@@ -41,7 +41,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/zigante/zigante/main/assets/gifs/wave.gif" width="30px">
 
-My name is Pedro Zigante and I'm a software developer/computer science student. I'm from Brazil and I'm currently working at Intellibrand. You can find me on [![LinkedIn][2.2]][2].
+My name is Pedro Zigante and I'm a software developer/computer science student. I'm from Brazil and I'm currently working at Agile Content. You can find me on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 
