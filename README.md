@@ -61,7 +61,7 @@ My name is Pedro Zigante and I'm a software developer/computer science student. 
 ![](https://img.shields.io/badge/DataBase-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
